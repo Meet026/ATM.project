@@ -1,6 +1,6 @@
 // basic overview of the project
 
-It is a project of c++ with the basics of object oriented programming, it is a begginer freindly project.
+It is a project of c++ with the basics of object oriented programming, it is a beginner freindly project.
 
 //Actual content of the project
 
@@ -8,5 +8,12 @@ First in this project created a class named ATM then declare needed data types a
 
 // What the work function actually does
 
-1.  setpin Function - 
+1.  setpin Function - The setpin function asks the user to set a pin and once the pin is set the function asks the user to enter the conform pin.
 
+2.  checkBalaance function - The CheckBalance function shows the current balance of an account
+
+3.  withdraw function - The withdraw function is used to withdraw balance from your account. If the amount entered is more than the current balance of the account, an insufficient balance message will appear across the screen Otherwise, the amount entered from the account will be withdrawn and the balance of the account will be update.
+
+4.  deposit function - The deposit function is used to deposit money into your account. Amount entered by the user is deposit into them account and the balance of the account will be update.
+
+5.  applyLoan function - The applyLoan function is used to apply loan from phone, First the function asks you to enter the amount you want to borrow, then the function asks you how long you want to take the loan then the function  calculates the amount you will have to pay after the year you entered with 8 percent of interest. after that function asks you for your loan confirmation.
